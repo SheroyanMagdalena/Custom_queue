@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Custom_queue": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
